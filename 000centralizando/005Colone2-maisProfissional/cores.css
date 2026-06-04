@@ -1,0 +1,61 @@
+:root {
+  --midnight: #0b0f19; /*Para destacar elementos*/
+  --deep: #1e293b;  /*Texto Principal*/
+  --branco: #f8fafc;    /*Cor de Destaque / CTA (Nordic Gold)*/
+  --deeppurple: #6366f1; /**/
+}
+Opção 1: O Clássico Cyberpunk (Moderno e Tech)
+
+Ideal se você quer passar uma vibe de tecnologia de ponta, desenvolvimento web moderno e alto impacto visual. É o famoso "escuro com neon".
+
+    Fundo Principal (Midnight Navy): #0B0F19 (Um azul quase preto, mais rico que o preto puro).
+
+    Fundo Secundário (Deep Slate): #1E293B (Para seções, cards ou blocos de código).
+
+    Texto Principal: #F8FAFC (Branco levemente acinzentado para não agredir os olhos).
+
+    Cor de Destaque / CTA (Neon Cyan): #06B6D4 ou #38BDF8 (Aquele azul/ciano elétrico que grita "clique aqui").
+
+    Detalhes / Glow (Deep Purple): #6366F1 (Para gradientes ou hovers).
+
+    Vibe: Linkin Park em formato de código. Passa a ideia de um dev altamente técnico e atualizado com as ferramentas mais robustas do mercado.
+
+Opção 2: Minimalismo Premium (Sóbrio e Elegante)
+
+Se o seu estilo de desenvolvimento é mais focado em software corporativo, elegância, clean code e arquitetura robusta. Menos firula, mais classe.
+
+    Fundo Principal (Absolute Eclipse): #09090B (Um preto quase puro, muito elegante).
+
+    Fundo Secundário (Dark Charcoal): #18181B (Para destacar elementos).
+
+    Texto Principal: #F4F4F5 (Contraste alto e limpo).
+
+    Cor de Destaque / CTA (Nordic Gold): #F59E0B ou #E2E8F0 (Um dourado fosco/âmbar para um visual premium, OU um branco total para minimalismo extremo).
+
+    Texto Secundário (Muted Gray): #71717A (Para descrições e subtextos).
+
+    Vibe: Interface da Apple ou da Vercel. Passa a imagem de um profissional sênior, caro e extremamente caprichoso com detalhes.
+
+Opção 3: Vaporwave Noturno (Criativo e Ousado)
+
+Se o "Meia Noite" tem um lado mais focado em design, front-end criativo, animações ou desenvolvimento de jogos.
+
+    Fundo Principal (Deep Violet): #0F0A1C (Um roxo escuro profundo, cor de céu de madrugada de filme de ficção científica).
+
+    Fundo Secundário (Obsidian): #1C1430 (Para separar o conteúdo).
+
+    Texto Principal: #E0E7FF (Um branco purpurinado, levemente azulado).
+
+    Cor de Destaque / CTA (Electric Magenta): #D946EF ou #EC4899 (Um rosa/magenta que se destaca absurdamente no fundo roxo).
+
+    Cor de Apoio (Violet Dawn): #8B5CF6 (Para links secundários ou ícones).
+
+    Vibe: Synthwave e criatividade. Mostra que você é um dev que não entrega o feijão com arroz visual, mas sim uma experiência.
+
+Dicas de Ouro para o Front-end:
+
+    Cuidado com o Preto Puro (#000000): Evite usar o preto total no fundo com texto branco puro, isso gera um cansaço visual chamado halation. Prefira tons como #0B0F19 ou #09090B.
+
+    Gradientes no Nome: Use a cor de destaque misturada com a cor de apoio em um gradiente bem suave no seu título principal (ex: Meia Noite). Fica espetacular em fontes sans-serif robustas.
+
+    Efeito de Luz (Glow): Na seção do topo (Hero), coloque um círculo grande e borrado (blur de 100px+) com a sua cor de destaque com opacidade bem baixa (ex: 10%) atrás do seu texto principal. Vai parecer o brilho da lua na meia-noite.
