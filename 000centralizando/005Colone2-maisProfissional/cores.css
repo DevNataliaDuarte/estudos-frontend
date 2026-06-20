@@ -4,7 +4,7 @@
   --branco: #f8fafc;    /*Cor de Destaque / CTA (Nordic Gold)*/
   --deeppurple: #6366f1; /**/
 }
-Opção 1: O Clássico Cyberpunk (Moderno e Tech)
+/*Opção 1: O Clássico Cyberpunk (Moderno e Tech)
 
 Ideal se você quer passar uma vibe de tecnologia de ponta, desenvolvimento web moderno e alto impacto visual. É o famoso "escuro com neon".
 
@@ -19,6 +19,7 @@ Ideal se você quer passar uma vibe de tecnologia de ponta, desenvolvimento web 
     Detalhes / Glow (Deep Purple): #6366F1 (Para gradientes ou hovers).
 
     Vibe: Linkin Park em formato de código. Passa a ideia de um dev altamente técnico e atualizado com as ferramentas mais robustas do mercado.
+    
 
 Opção 2: Minimalismo Premium (Sóbrio e Elegante)
 
@@ -58,4 +59,4 @@ Dicas de Ouro para o Front-end:
 
     Gradientes no Nome: Use a cor de destaque misturada com a cor de apoio em um gradiente bem suave no seu título principal (ex: Meia Noite). Fica espetacular em fontes sans-serif robustas.
 
-    Efeito de Luz (Glow): Na seção do topo (Hero), coloque um círculo grande e borrado (blur de 100px+) com a sua cor de destaque com opacidade bem baixa (ex: 10%) atrás do seu texto principal. Vai parecer o brilho da lua na meia-noite.
+    Efeito de Luz (Glow): Na seção do topo (Hero), coloque um círculo grande e borrado (blur de 100px+) com a sua cor de destaque com opacidade bem baixa (ex: 10%) atrás do seu texto principal. Vai parecer o brilho da lua na meia-noite.*/

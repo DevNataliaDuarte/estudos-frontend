@@ -6,7 +6,7 @@ body{
     width: 100vw;
     height: 97vh;
     position: relative;
-    background-color: #1E1B4B;
+    background-color: var(--midnight);
 }
 main{
     width: 500px;
@@ -20,7 +20,7 @@ main{
     flex-direction: column;
 
     border-radius: 50px;
-    background-color: #312E81;
+    background-color: var(--deep);
 }
 #perfil{
     max-width: 120px;
@@ -44,7 +44,7 @@ p {
     border-radius: 50px;
 
     color: #FFFFFF;
-    background-color: #1E1B4B;
+    background-color: var(--midnight);
 }
 ul{
     display: flex;
@@ -56,7 +56,7 @@ li{
 }
 
 .imgs{
-    width: 50vw;
+    max-width: 80vw;
     height: 170px;
 
     margin: auto;
@@ -66,7 +66,7 @@ li{
     justify-content: space-evenly;
 
     border-radius: 20px;
-    background-color: #312E81;
+    background-color: var(--deep);
 }
 .projects {
     cursor: pointer;
@@ -82,7 +82,7 @@ footer {
     justify-content: center;
 
     color: #FFFFFF;
-    background-color: #312E81;
+    background-color: var(--deep);
 
     position: absolute;
     bottom: 0;
